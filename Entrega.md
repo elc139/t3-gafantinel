@@ -1,6 +1,8 @@
 # Disciplina: Programação Paralela
 # Aluno: Gustavo Arrua Fantinel
 
+Link: ![OpenMPDemoABC.cpp](https://github.com/elc139/t3-gafantinel/blob/master/OpenMPDemoABC.cpp)
+
 ## Static
 Quando o schedulling-type escolhido é static sem um chunk-size definido, faz-se com que o OpenMP divida as iterações em chunks que são aproximadamente iguais em tamanho e os distribui igualmente para cada thread:
 ```
