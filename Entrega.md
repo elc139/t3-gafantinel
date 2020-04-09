@@ -68,3 +68,10 @@ Quando não especificamos uma seção crítica para o programa ou não utilizamo
 B--BC-BC--B--C--C--CA-C-BC-BC-BC-BC-BC-BC-BCABC-BC-BC-BC-BC-BC-BC-BCABC-BC-BC-BC-BC-BC-BC-BC-BC-BC--
 A=3 B=29 C=31
 ```
+
+## Referências
+- http://jakascorner.com/blog/2016/04/omp-introduction.html
+- http://jakascorner.com/blog/2016/05/omp-for.html
+- http://jakascorner.com/blog/2016/06/omp-for-scheduling.html
+- https://www.cenapad.unicamp.br/servicos/treinamentos/apostilas/apostila_openmp.pdf
+- http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5645/Calebe_OpenMP.pdf
